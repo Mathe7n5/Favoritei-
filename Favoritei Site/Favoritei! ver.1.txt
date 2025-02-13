@@ -1,0 +1,37 @@
+Projeto: Favoritei! ver.1
+
+Concluídos
+
+Criar botão de excluir (com aviso de confirmação antes de excluir)
+
+Separar cada produto por loja
+
+Em andamento
+
+Ajustar CSSReferências:
+
+CSS Tutorial 1
+
+CSS Tutorial 2
+
+CSS Tutorial 3
+
+Na fila
+
+Ajustar os botões do footer
+
+Adicionar efeito parallaxReferência: Parallax Tutorial
+
+Adicionar navbar
+
+Fazer um bannerReferência: Banner Tutorial
+
+Criar ferramenta de suporte
+
+Adicionar redes sociais
+
+Adicionar a opção de favoritar os itens desejados
+
+Adicionar a opção de redirecionamento ao link ao clicar em "comprar"
+
+
