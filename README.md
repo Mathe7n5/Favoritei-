@@ -1,2 +1,2 @@
-# Favoritei-
+# Favoritei!
 Minha "loja virtual"
