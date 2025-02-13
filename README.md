@@ -1,0 +1,2 @@
+# Favoritei-
+Minha "loja virtual"
